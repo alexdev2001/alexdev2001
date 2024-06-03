@@ -9,7 +9,7 @@
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/89f9d6ec-f445-42a4-b647-2dffd400801b" alt="JavaScript-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/a35bde47-df9e-49d4-9abe-1351c1ad00bc" alt="Java-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/50b315a6-a36f-4d70-bfd5-3f31b8d2df4f" alt="Python-logo" width="100" height="100">
-  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/3e60d1e1-1597-441d-a855-af11ee3fbcbb" alt="CSS-logo" width="100" height="100">
+  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/a43ba3d5-3c76-49c9-a975-0d0c13c874c5" alt="CSS-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/dfc6e032-0321-448e-9fe3-71f28d45b1a7" alt="Node-js-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/226dc94e-f108-40b5-b805-080980ca5765" alt="PHP-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/d416809a-d7bb-4ba4-9208-a4266a8f0c97" alt="PostgreSQL-logo" width="100" height="100">
