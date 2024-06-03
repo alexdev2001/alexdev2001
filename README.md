@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/1e4c601b-1d9a-4e86-b23c-55aec3dd4cab" alt="ISO_C++_Logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/89f9d6ec-f445-42a4-b647-2dffd400801b" alt="JavaScript-logo" width="100" height="100">
-  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/2b4d90c7-f339-4b1a-9092-fca825ef6619" alt="Java-logo" width="100" height="100">
-  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/322dffdd-8989-4ca4-95b5-adaaa4086b74" alt="Python-logo" width="100" height="100">
+  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/a35bde47-df9e-49d4-9abe-1351c1ad00bc" alt="Java-logo" width="100" height="100">
+  <img src="" alt="Python-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/3e60d1e1-1597-441d-a855-af11ee3fbcbb" alt="CSS-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/dfc6e032-0321-448e-9fe3-71f28d45b1a7" alt="Node-js-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/226dc94e-f108-40b5-b805-080980ca5765" alt="PHP-logo" width="100" height="100">
