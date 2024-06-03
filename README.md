@@ -5,9 +5,9 @@
 
   ## Tools I'm familiar with:
 <p align="center">
-  <img src="https://isocpp.org/" alt="ISO_C++_Logo" width="100" height="100">
+  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/1e4c601b-1d9a-4e86-b23c-55aec3dd4cab" alt="ISO_C++_Logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/89f9d6ec-f445-42a4-b647-2dffd400801b" alt="JavaScript-logo" width="100" height="100">
-  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/1a45a7aa-66b2-4f62-b84f-a729d97d8088" alt="Java-logo" width="100" height="100">
+  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/56fc1bf7-9222-4e89-aba2-bc7aa820633f" alt="Java-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/322dffdd-8989-4ca4-95b5-adaaa4086b74" alt="Python-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/3e60d1e1-1597-441d-a855-af11ee3fbcbb" alt="CSS-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/dfc6e032-0321-448e-9fe3-71f28d45b1a7" alt="Node-js-logo" width="100" height="100">
