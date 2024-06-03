@@ -13,7 +13,6 @@
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/70d422e6-fcd8-4086-8118-845348a7090e" alt="Node-js-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/b495f6f7-3c58-4cfb-b7c4-c4279180a9b6" alt="PHP-logo" width="100" height="100">
   <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/d5756936-50e7-45c7-a13c-478241534da7" alt="PostgreSQL-logo" width="100" height="100">
-  <img src="https://github.com/alexdev2001/alexdev2001/assets/146278746/5f208759-42f1-4faa-bf7f-46402f0f4b2a" alt="Scikit-learn-logo" width="100" height="100">
 </p>
 
 
