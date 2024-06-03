@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Java with springboot, JavaScript on nodeJS
+- 🌱 I’m currently learning Javascript with react
+- 📫 How to reach me on X: @alex_imz, IG: don_imani, WA: +265999959088
+
 
 <!--
 **alexdev2001/alexdev2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
