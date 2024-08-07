@@ -1,9 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Java with springboot, JavaScript on nodeJS
 - 🌱 I’m currently learning Javascript with react
-- 📫 How to reach me on X: @alex_imz,
-                       IG: don_imani,
-                       WA: +265999959088
+
 
   ## Tools I'm familiar with:
 <p align="center">
