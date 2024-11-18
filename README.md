@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Java with springboot, JavaScript on nodeJS
-- 🌱 I’m currently learning Javascript with react
+- 🔭 I’m currently working on Java with springboot
+- 🌱 I’m currently learning Heskell and algorithm design
+- 📦 I'm currently exploring docker and containerized deployment
 
 
   ## Tools I'm familiar with:
