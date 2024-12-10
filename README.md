@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Java with springboot
 - 🌱 I’m currently learning Heskell and algorithm design
+- 🦫 I'm currently building projects in Golang
 - 📦 I'm currently exploring docker and containerized deployment
 
 
